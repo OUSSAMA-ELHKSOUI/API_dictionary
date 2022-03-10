@@ -1,5 +1,5 @@
 # API_dictionary
-it's a Flask API that can fitch data (definitions, examples, synonyms) of every English word from a website and represent it clearly and nicely in a JSON format
+it's a Flask API that can fetch data (definitions, examples, synonyms) of every English word from a website and represent it clearly and nicely in a JSON format
 
 
 requirements:
